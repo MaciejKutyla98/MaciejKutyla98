@@ -16,7 +16,13 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
     
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maciejkutyla98&layout=compact" alt="maciejkutyla98" /></p>
 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maciejkutyla98&show_icons=true&locale=en" alt="maciejkutyla98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maciejkutyla98&" alt="maciejkutyla98" /></p> 
+<div align="center"> 
+    <a href="https://www.linkedin.com/in/maciej-kuty%C5%82a-a891971a7/" target="_blank" rel="noreferrer"> <img src="https://github.com/MaciejKutyla98/MaciejKutyla98/blob/main/linkedin.png" alt="html5" /> </a> </div> 
 
 
 
